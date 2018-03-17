@@ -15,7 +15,6 @@ namespace RandomString
         {
             dict.Init();
             string str = "";
-            int g;
             for(int j = 0; j <= i; j++)
             {
                 Console.WriteLine(j);
